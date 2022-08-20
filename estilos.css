@@ -1,0 +1,25 @@
+body{
+    background-color: #284241;
+}
+
+.container {
+    border: 1px solid;
+    border-radius: 15px;
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #578F8D;
+
+}
+
+.container input {
+    padding: 20px 20px;
+    margin: 15px 15px;
+}
+
+.resultado {
+    display: block;
+    margin: 20px 20px;
+}
